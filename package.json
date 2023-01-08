@@ -1,0 +1,15 @@
+{
+  "name": "shooting-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analysis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "calculate-correlation": "^1.2.3",
+    "convert-excel-to-json": "^1.7.0"
+  }
+}
